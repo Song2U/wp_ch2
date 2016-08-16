@@ -1,0 +1,10 @@
+@import "main.css"; /* 공통된 부분을 임포트하고 추가적인 것만 따로 정의한다.*/
+@charset "utf-8";
+
+body {
+	background-color: #ff6
+}
+
+h1 {
+	color: #000
+}
